@@ -41,7 +41,7 @@ const Header = () => {
             In react, use 
             <FontAwesomeIcon icon="fa-solid fa-cart-shopping" />
             */}
-            
+            Cart
           </li> 
           <li>
             {/* use conditional rendering for login and logout */}
